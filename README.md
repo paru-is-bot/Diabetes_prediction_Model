@@ -31,6 +31,8 @@
 ```bash
 python -m venv venv
 # macOS / Linux
+```
+```bash
 source venv/bin/activate
 # Windows (PowerShell)
 venv\Scripts\Activate.ps1
